@@ -1,0 +1,12 @@
+openmp
+to compile file: gcc -fopenmp filename
+OR to compile file: g++ filename.cpp -fopenmp
+OR to compile file: gcc -fopenmp filename.cpp -lstdc++
+
+to run file: ./a.out
+
+to install sublime text editor: sudo snap install sublime-text
+to launch sublime text editor: subl
+
+python
+python3 filename
